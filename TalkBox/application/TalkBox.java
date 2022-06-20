@@ -1,8 +1,6 @@
 package application;
 
-/*Mikiel McRae*
- * 3084216
- * HGP Assign1: TalkBox*/
+/*Mikiel McRae*/
 
 //Standard imports
 import javafx.application.Application;
