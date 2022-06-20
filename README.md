@@ -68,7 +68,7 @@ If you see the following Red Xs, delete the module-info.java section by right cl
 
 
 ix. Download the TalkBox code as a zip from the [TalkBox repository](https://github.com/mikielmcrae/TalkBox) as a ZIP.
-Drag "TalkBox.java" from this folder into the applicaton folder in your Eclipse project. You may delete Main.java.
+Drag "TalkBox.java" from this folder into the applicaton folder in your Eclipse project. You may delete Main.java if you wish.
 
 x. Now, navigate to TalkBox.java and run it. The console should display the following error:
 
@@ -110,7 +110,7 @@ If the rest of TalkBox's assets have been moved successfully, re-running the fil
 
 <img width="694" alt="An image of TalkBox's final UI" src="https://user-images.githubusercontent.com/86265908/174657025-6a5b08db-67fc-4fa9-8ef4-8b80bccb00bb.png">
 
-From here, you can peruse all functionality of the UI! You may delete Main.java if you wish, but it will be inconsequential either way.
+From here, you can peruse all functionality of the UI! 
 
 Thank you!!!
 -Mikiel
