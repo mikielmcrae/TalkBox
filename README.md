@@ -1,5 +1,5 @@
-# TalkBox
-JavaFX social media frontend
+# TalkBox💭💬
+JavaFX social media frontend - let the world know what's up! 
 
 Welcome to TalkBox, the (future) world's leading minimialist social media app!
 
