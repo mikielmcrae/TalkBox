@@ -2,7 +2,9 @@
 JavaFX social media frontend - let the world know what's up! 
 
 **Table of contents**
+
 I. Installation instructions
+
 II. Feature preview
 
 
@@ -117,7 +119,12 @@ Thank you!!!
 
 ______________________________________________________________________________________________________________________________________________________
 
-TalkBox is just that - an area designed for talking, sharing thoughsts, and updating your friends on what's new!
+
+II. PREVIEW
+
+You don't need to download TalkBox to see what it's made of! Here's a little about the app, with images showing some of the app's main functionalities.
+
+TalkBox is just that - an area designed for talking, sharing thoughts, and updating your friends on what's new!
 
 The app is written in JavaFX and styled in CSS. The UI is designed to give users an experience they're already used to as soon as they log in.
 
