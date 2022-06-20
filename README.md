@@ -22,6 +22,18 @@ Users are even able to update their profile information, including their name an
 
 <img width="355" alt="An image of the warning window a user will receive if their input is invalid." src="https://user-images.githubusercontent.com/86265908/174600400-8cbd6ac8-bc09-42bf-992e-95b7c25452f6.png">
 
+A custom profile picture can be selected in the formats of PNG and JPEG.
+
+<img width="357" alt="The option pane for selecting profile picture. Users can remove their current picture or upload a new one." src="https://user-images.githubusercontent.com/86265908/174601611-e2b8e1ec-045c-4fbe-8519-6577aaffeabe.png">
+
+
+<img width="225" alt="The user's updated profile with a custom personal profile picture." src="https://user-images.githubusercontent.com/86265908/174601702-3702b78d-4986-41d3-8b2d-151a25965d96.png">
+
+
+If curious, users can read more about the app from the MenuBar at the top of the UI.
+
+<img width="356" alt="TalkBox's About pane, which thanks users for using TalkBox and provides dummy copyright information." src="https://user-images.githubusercontent.com/86265908/174601935-52254df2-886e-482d-bdb5-6b9ffefef45a.png">
+
 
 Users can even submit queries to the developer, allowing for their voices to be heard on anything regarding bug reports, to questions, to comments.
 
@@ -33,5 +45,7 @@ User queries are sent to the console currently, with a generated ticket number a
 
 
 <img width="528" alt="An image of the IDE console which includes the user's generated ticket number, name, and query." src="https://user-images.githubusercontent.com/86265908/174600730-27028c86-62f3-41c0-a496-9e969029f604.png">
+
+
 
 
