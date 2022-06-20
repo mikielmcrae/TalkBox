@@ -30,6 +30,8 @@ Users can even submit queries to the developer, allowing for their voices to be 
 Validation techniques have been implemented on the query pane to ensure user input is appropriate.
 
 User queries are sent to the console currently, with a generated ticket number and all information as included by the user.
+
+
 <img width="528" alt="An image of the IDE console which includes the user's generated ticket number, name, and query." src="https://user-images.githubusercontent.com/86265908/174600730-27028c86-62f3-41c0-a496-9e969029f604.png">
 
 
