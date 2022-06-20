@@ -1,0 +1,41 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/*BOOKFACE*/
+.root, .menubar, .dialogpane {
+	-fx-font-family: "Arial";
+	-fx-text-fill: #00296B;
+	-fx-background-color: #DDEDFD;
+	-fx-font-size: 10pt;
+	
+
+}
+
+
+
+.button:hover, .menu:hover {
+	-fx-cursor: hand;
+}
+
+.button{
+	-fx-color: #0386F3;
+	-fx-background-radius: 50px;
+	-fx-padding: 5px 10px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+
+.button:hover{
+	-fx-color: #289eff;
+	-fx-effect: dropshadow( one-pass-box , #00296B , 4 , 0.0 , 2 , 0 )
+
+}
+.button:focused {
+	-fx-color: #0172cf;
+}
+
+.label {
+	-fx-font-weight: bold;
+}
+
+.menu {
+	-fx-font-weight: normal;
+}
