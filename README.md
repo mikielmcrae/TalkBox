@@ -3,14 +3,15 @@ JavaFX social media frontend - let the world know what's up!
 
 **Table of contents**
 
-I. Installation instructions
+I. [Installation instructions](#-installation-instructions)
 
-II. [Feature preview](#feature-preview)
+II. [Feature preview](#-feature-preview)
 
 
 Welcome to TalkBox, the (future) world's leading minimialist social media app!
+<h1># Installation instructions</h1>
 
-I. INSTALLATION INSTRUCTIONS
+
 If you don't have a JavaFX environment set up and would like to run TalkBox from your own machine, follow these steps.
 
 (If you have a JavaFX environment set up already, you can skip to step _vi_).
@@ -122,7 +123,7 @@ ________________________________________________________________________________
 
 
 II. 
-<h1>#feature preview</h1>
+<h1># Feature preview</h1>
 
 
 You don't need to download TalkBox to see what it's made of! Here's a little about the app, with images showing some of the app's main functionalities.
