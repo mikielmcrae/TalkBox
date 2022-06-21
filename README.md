@@ -103,6 +103,8 @@ Your project should look something like this if everything is in the right locat
 
 <img width="213" alt="A screenshot of the project setup in JavaFX, showing TalkBox.java in the application folder, while the assets for the app are in the src folder" src="https://user-images.githubusercontent.com/86265908/174657289-8253e4f2-9470-4051-b793-8a966725d5d4.png">
 
+_You might not have Main.java anymore if you have deleted it. It is inconsequential whether you choose to keep or remove it._
+
 
 If the rest of TalkBox's assets have been moved successfully, re-running the file should result in the final TalkBox UI:
 
