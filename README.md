@@ -5,7 +5,7 @@ JavaFX social media frontend - let the world know what's up!
 
 I. Installation instructions
 
-II. Feature preview
+II. [Feature preview](#feature-preview)
 
 
 Welcome to TalkBox, the (future) world's leading minimialist social media app!
@@ -121,7 +121,7 @@ Thank you!!!
 ______________________________________________________________________________________________________________________________________________________
 
 
-II. PREVIEW
+II. #Feature preview
 
 You don't need to download TalkBox to see what it's made of! Here's a little about the app, with images showing some of the app's main functionalities.
 
