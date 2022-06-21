@@ -91,11 +91,9 @@ where the "path to" the JavaFX SDK is the location in which you saved the opened
 **Uncheck** the checkbox under this textarea, "Use the -XstartOnFirstThread
 argument when launching with SWT". 
 
-Apply the changes. If successful, running TalkBox.java will now result in a window opening. It might look something like this. 
+Apply the changes. If successful, running TalkBox.java will now result in a window opening. There should be all the main components of TalkBox present, but they won't be styled. 
 
-<img width="697" alt="A version of the TalkBox UI missing some components" src="https://user-images.githubusercontent.com/86265908/174656508-6214e505-26ac-4454-859a-cded3525ad05.png">
-
-Delete "application.css" from the **src** folder.
+Now, delete "application.css" from the **src** folder.
 
 xi. From the TalkBox folder you downloaded from this repository, select "application.css", "default-pic.png" and "talkbox-logo.png". Drag and drop or simply paste into the **src** folder under your TalkBox project in Eclipse. (If they do not drag directly in, you can drag them into the folder first and them move them into src).
 
