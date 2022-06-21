@@ -122,8 +122,8 @@ ________________________________________________________________________________
 
 
 II. 
+<h1>#feature preview</h1>
 
-#feature preview
 
 You don't need to download TalkBox to see what it's made of! Here's a little about the app, with images showing some of the app's main functionalities.
 
