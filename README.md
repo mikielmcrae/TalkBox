@@ -56,6 +56,7 @@ To add the **JavaFX SDK**: Simply select the JavaFX SDK from the list of Librari
 <img width="418" alt="The 'Add Libraries' window shown with the JavaFX SDK selected" src="https://user-images.githubusercontent.com/86265908/174653875-b6a0f04d-f0a1-4fe7-9f9d-5bfb36596b4a.png">
 
 To add the **JavaFX User Library**: Reopen the "Add Library" window, select User Library and click **Next**. Check the JavaFx User Library box and click "Finish".
+
 <img width="315" alt="The User Library section of the 'Add Libraries' window shown with the JavaFX User Library checkbox selected" src="https://user-images.githubusercontent.com/86265908/174653893-cf6aec9c-a01e-4df6-a519-30bb94ad6c47.png">
 
 Remember to add **both** of these libraries to your project.
